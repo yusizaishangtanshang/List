@@ -47,7 +47,6 @@
         }
         else
         {
-            NSLog(@"--------");
             cell = [[taskViewCell alloc]initWithTaskViewCellType:taskViewCellTypeDefault];
         }
     }
