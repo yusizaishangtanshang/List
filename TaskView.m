@@ -47,7 +47,8 @@
         }
         else
         {
-            NSLog(@"--------");
+            NSLog(@"--------222");
+            NSLog(@"--------111");
             cell = [[taskViewCell alloc]initWithTaskViewCellType:taskViewCellTypeDefault];
         }
     }
